@@ -1,4 +1,4 @@
-import './services.css'
+import './Services.css'
 import logo2 from '../../assets/logo2.svg'
 import icon1 from '../../assets/icon1.svg'
 import Text_data from '../../assets/Text_data'
